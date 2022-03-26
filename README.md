@@ -1,0 +1,2 @@
+# Iris-Flowers-Classifier
+A desktop application written in Python; the program implements a SLP Neural Network that classifies the selected types of flowers based on the features you select, the GUI takes the number of iterations, Learning rate and as mentioned before the features to classify on., moreover the application gives the user all the combinations of the features in order to facilitate his selection based on the graphs, finally the application outputs the confusion matrix and the error graph with the final MSE error.
